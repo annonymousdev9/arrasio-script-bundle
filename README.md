@@ -67,7 +67,8 @@ Press ` + 5 → Enable Bullet stack for Pentashot, Spreadshot, Octo
 
 ⚠️ Not compatible with Cyclone or Hexatank
 
-⚠️ Disclaimer---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+⚠️ Disclaimer
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This script package is designed strictly for educational and experimental use.
 You are solely responsible for how you use this tool.
 
